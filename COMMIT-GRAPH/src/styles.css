@@ -1,0 +1,14 @@
+body {
+  align-items: center;
+  background-color: #202831;
+  display: flex;
+  font-family: 'Open Sans';
+  font-style: normal;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+
+.title {
+  color: #cbd3dc;
+}
