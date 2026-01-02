@@ -3,8 +3,11 @@ import { Navbar } from './components/navbar/Navbar'
 
 export const App = () => {
   return (
-    <main>
-      <Navbar />
-    </main>
+    <>
+      <div className="bg-grid"></div>
+      <main>
+        <Navbar />
+      </main>
+    </>
   )
 }
