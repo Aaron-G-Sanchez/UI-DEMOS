@@ -4,7 +4,12 @@
   font-weight: 400;
 
   color: #fff;
-  background: #242530;
+  background: radial-gradient(
+    ellipse 150% 90% at 50% 100%, 
+    #FBF9FF, 
+    #1268bc, 
+    #252422
+  );
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
