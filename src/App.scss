@@ -12,7 +12,17 @@
   z-index: -1;
 }
 
-main {
+.page-container {
   height: 100%;
   width: 100%;
+}
+
+.sidebar-main-container {
+  display: flex;
+  height: 90%;
+}
+
+.display-container {
+  flex-grow: 5;
+  justify-content: center;
 }
